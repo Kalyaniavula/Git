@@ -1,7 +1,9 @@
 # Git
 # Git--demo
 #What is git ?
-Git is a version control system. It helps you keep track of changes made to your files and projects over time. Think of it as a tool that saves every update you make, so you can go back to previous versions or see what changes were made by others.
+Git is a version control system. 
+It helps you keep track of changes made to your files and projects over time. 
+Think of it as a tool that saves every update you make, so you can go back to previous versions or see what changes were made by others.
 
 #what is version contral system?(record changes)
 Simple Explanation:
@@ -41,3 +43,15 @@ What it helps with	   Keeps history of your work and manages updates.	          
 1.sudo apt update(Updates the list of available packages on linux.)
 2.sudo apt upgrade(Upgrades all installed packages to their latest versions)
 3.sudo apt install git(Installs the Git version control software on linux)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Git Commit:like saving your code in project
+Git repository:
+Git branch:
+Git pull request:
+
+
+
+
